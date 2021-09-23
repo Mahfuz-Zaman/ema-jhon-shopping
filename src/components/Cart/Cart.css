@@ -1,0 +1,8 @@
+.cart {
+  background-color: lightslategray;
+  padding: 20px;
+  margin-top: 10px;
+  border: 5px solid green;
+  border-radius: 5px;
+  line-height: 20px;
+}
