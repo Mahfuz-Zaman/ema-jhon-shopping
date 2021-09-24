@@ -1,3 +1,13 @@
+.search-container {
+  background-color: rgba(0, 0, 0, 0.678);
+  line-height: 60px;
+  text-align: center;
+}
+.search-container input {
+  width: 75%;
+  padding: 10px 30px;
+}
+
 .shop-container {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -6,4 +16,9 @@
   border-right: 2px solid gray;
   margin-right: 10px;
   margin-left: 50px;
+}
+.icon-color {
+  color: gold;
+  padding: 5px;
+  margin-bottom: 20px;
 }
